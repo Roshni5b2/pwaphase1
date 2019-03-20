@@ -1,0 +1,48 @@
+{
+  "left":{
+    "img":"images/download.png",
+    "name":"Roshni",
+    "designation":"Web developer",
+    "rollno":"17691A05B2",
+    "email":"17691a05b2@mits.ac.in"
+  },
+  "carrer":{
+    "info":"To work in an environment where i can utilise my skills and knowledge"
+  },
+  "education":[
+    {
+    "sno":"1",
+    "institute":"mits",
+    "board":"btech",
+    "per":"90%",
+    "yop":"2021"
+    },
+    {
+      "sno":"2",
+      "institute":"krs",
+      "board":"intermediate",
+      "per":"97%",
+      "yop":"2017"
+    },
+    {
+      "sno":"3",
+      "institute":"scts",
+      "board":"ssc",
+      "per":"98%",
+      "yop":"2015"
+
+    }
+  ],
+  "skills":[
+    {
+      "program":"c"
+    },
+    {
+      "program":"c++"
+    },
+    {
+      "program":"java"
+    }
+
+  ]
+}
